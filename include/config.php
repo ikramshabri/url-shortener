@@ -6,5 +6,5 @@ define("DB_USERNAME", "root");
 define("DB_PASSWORD", "");
 
 
-define("SHORTURL_PREFIX", "http://localhost/r.php?c=");
+define("SHORTURL_PREFIX", "http://localhost/result.php?c=");
 
