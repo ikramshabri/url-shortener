@@ -1,7 +1,6 @@
 <?php
 /**
- * This class provides all of the functionality needed to create (encode) and
- * decode shortened URLs.
+ * This class provides all of the functionality needed to create (encode) and decode shortened URLs.
  */
 class ShortUrl
 {
